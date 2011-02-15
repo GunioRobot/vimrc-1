@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ymek/development/projects/chef-repo/cookbooks/dstat/recipes'
+let g:netrw_dirhist_2='/home/ymek/development/projects/tfw/lib/rubylib'
+let g:netrw_dirhist_3='/home/ymek/development/projects/gsh/bin'
+let g:netrw_dirhist_4='/home/ymek/development/projects/gsh/lib/gsh'
+let g:netrw_dirhist_5='/home/ymek/development/projects/lcars/lib/lcars/options/parser'
+let g:netrw_dirhist_6='/home/ymek/development/projects/tfw/cron/every15min'
+let g:netrw_dirhist_7='/home/ymek/development/projects/gsh/lib/gsh'
+let g:netrw_dirhist_8='/home/ymek/development/projects/chef-repo/cookbooks/zabbix/files/default/lib/logmailer'
+let g:netrw_dirhist_9='/home/ymek/development/projects/logmailer/lib/logmailer'
